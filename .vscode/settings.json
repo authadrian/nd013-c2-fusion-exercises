@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./lesson-1-lidar-sensor/examples",
+        "./lesson-1-lidar-sensor/exercises/starter",
+        "./lesson-2-object-detection/exercises/starter",
+        "./lesson-2-object-detection/examples"
+    ]
+}
