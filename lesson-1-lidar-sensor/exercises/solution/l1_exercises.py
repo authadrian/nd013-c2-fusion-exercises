@@ -82,3 +82,6 @@ def print_no_of_vehicles(frame):
             num_vehicles = num_vehicles + 1
             
     print("number of labeled vehicles in current frame = " + str(num_vehicles))
+
+
+
